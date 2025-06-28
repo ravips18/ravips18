@@ -1,8 +1,8 @@
 ## Namaste🙏
-<img src="https://github.com/ravips18/ravips18/blob/main/RaviPS-2022.png" alt="banner that says Ravi Sunkadakatte - Software Developer, Content Creator, Technopreneur">
+<img src="https://github.com/ravips18/ravips18/blob/main/RaviPS-Latest-Compressed.jpg" alt="banner that says Ravi Sunkadakatte - Software Developer, Content Creator, Technopreneur">
 I'm a software engineer who is passionate about digital transformaion, business transformation & personality transformation. I am more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java (Spring), Python, React.JS, Tailwindcss. 
 
-
+https://github.com/ravips18/ravips18/blob/main/RaviPS-Latest-Compressed.jpg
 <!--
 **ravips18/ravips18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
