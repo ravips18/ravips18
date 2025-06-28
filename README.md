@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Namaste🙏, I'm Ravi</h1>
 <h3 align="center"> Full Stack Developer |  Software Architect | Entrepreneur  </h3>
----
+
 <!-- About Me -->
 ### 👩‍💻 About Me
 
