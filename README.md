@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Namaste🙏, I'm Ravi</h1>
 <h3 align="center"> Full Stack Developer |  Software Architect | Entrepreneur  </h3>
-
+---
 <!-- About Me -->
 ### 👩‍💻 About Me
 
-I'm a software engineer who is passionate about digital transformaion, business transformation & personality transformation. I am more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java (Spring), Python, React.JS, Tailwindcss.  
+I'm a software engineer who is passionate about digital transformaion, business transformation & personality transformation. I am more approachable, creating technology to elevate people, and building community. Some technologies I enjoy coding in Java (Spring), python, React.JS, Tailwindcss.  
 ---
 ![profile count](https://komarev.com/ghpvc/?username=ravips18&color=red)
 
