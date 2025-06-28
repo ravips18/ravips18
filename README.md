@@ -5,7 +5,7 @@
 <!-- About Me -->
 ### 👩‍💻 About Me
 I'm a software engineer who is passionate about digital transformaion, business transformation & personality transformation. I am more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java (Spring), Python, React.JS, Tailwindcss.  
-
+---
 ![profile count](https://komarev.com/ghpvc/?username=ravips18&color=red)
 ### Current Assignments
 - 🔭 I’m currently working on building SaaS platform for pharmacy store chains.
@@ -14,9 +14,8 @@ I'm a software engineer who is passionate about digital transformaion, business 
 - 🤔 I’m looking for help with Full stack development using Java, Python, React.JS, Android stack.
 - 💬 Ask me about architecture design, SaaS platform development, technology solutions & trouble shooting, 
 - 📫 How to reach me: namaste@ravips.com  
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... We try to know everything except ourself.
-
+---
 ### Languages and Tools
 
 <p>
