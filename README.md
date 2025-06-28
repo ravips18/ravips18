@@ -4,9 +4,11 @@
 
 <!-- About Me -->
 ### 👩‍💻 About Me
+
 I'm a software engineer who is passionate about digital transformaion, business transformation & personality transformation. I am more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java (Spring), Python, React.JS, Tailwindcss.  
 ---
 ![profile count](https://komarev.com/ghpvc/?username=ravips18&color=red)
+
 ### Current Assignments
 - 🔭 I’m currently working on building SaaS platform for pharmacy store chains.
 - 🌱 I’m currently learning Generative AI for quality (UX, architecture innovation), high performance and quicker delivery of software.
